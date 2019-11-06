@@ -1,2 +1,5 @@
 ﻿name,ring,quadrant,isNew,description
-Azure Service Fabric,adopt,platforms,no,A platform to build microservices on Azure
+Azure Service Fabric,adopt,platforms,FALSE,A platform to build microservices on Azure.
+Visual Studio 2019,trial,tools,TRUE,Plans to adopt Visual Studio as primary IDE for the engineering team.
+Nunit,assess,language-and-frameworks,TRUE,Assess Nunit as a replacement for MS Test.
+SQL as a intermediatary source,hold,techniques,TRUE,This approach did not work well.
