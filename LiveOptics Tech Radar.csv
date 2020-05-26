@@ -14,3 +14,4 @@ Azure Functions,assess,platforms,TRUE,
 Cosmos DB,trial,platforms,FALSE,
 TDD,adopt,techniques,FALSE,
 Feature Toggles,adopt,techniques,FALSE,
+Templated Service Patterns, adopt, techniques, TRUE, Use automated scripts to generate services from templates supporting our common design patterns. See <strong><a href="https://huntermgmt.atlassian.net/wiki/x/C4A2Og">here</a></strong> for details.
