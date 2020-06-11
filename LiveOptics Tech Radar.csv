@@ -1,16 +1,17 @@
-name	ring	quadrant	isNew	description
-Azure Service Fabric	adopt	platforms	FALSE	A platform to build microservices on Azure.
-Visual Studio 2019	trial	tools	TRUE	Plans to adopt Visual Studio as primary IDE for the engineering team.
-Nunit	assess	language-and-frameworks	TRUE	Assess Nunit as a replacement for MS Test.
-SQL as a intermediatary data persistence	hold	techniques	TRUE	This approach did not work well.
-Micro Frontends	trial	techniques	FALSE	Micro Front Ends architecture has promise in terms of speeding up delivery of user facing applications
-Traefik	adopt	platforms	FALSE	
-React	adopt	language-and-frameworks	FALSE	
-Typescript	adopt	language-and-frameworks	FALSE	
-Angular	hold	language-and-frameworks	FALSE	
-Application Insights	adopt	platforms	FALSE	
-JSON API	assess	language-and-frameworks	TRUE	
-Azure Functions	assess	platforms	TRUE	
-Cosmos DB	trial	platforms	FALSE	
-TDD	adopt	techniques	FALSE	
-Feature Toggles	adopt	techniques	FALSE	
+name,ring,quadrant,isNew,description
+Azure Service Fabric,adopt,platforms,FALSE,A platform to build microservices on Azure.
+Visual Studio 2019,trial,tools,TRUE,Plans to adopt Visual Studio as primary IDE for the engineering team.
+Nunit,assess,language-and-frameworks,TRUE,Assess Nunit as a replacement for MS Test.
+SQL as a intermediatary data persistence,hold,techniques,TRUE,This approach did not work well.
+Micro Frontends,trial,techniques,FALSE,Micro Front Ends architecture has promise in terms of speeding up delivery of user facing applications
+Traefik,adopt,platforms,FALSE,
+React,adopt,language-and-frameworks,FALSE,
+Typescript,adopt,language-and-frameworks,FALSE,
+Angular,hold,language-and-frameworks,FALSE,
+Application Insights,adopt,platforms,FALSE,
+JSON API,assess,language-and-frameworks,TRUE,
+Azure Functions,assess,platforms,TRUE,
+Cosmos DB,trial,platforms,FALSE,
+TDD,adopt,techniques,FALSE,
+Feature Toggles,adopt,techniques,FALSE,
+Templated Service Patterns, adopt, techniques, TRUE, Use automated scripts to generate services from templates supporting our common design patterns. See <strong><a href="https://huntermgmt.atlassian.net/wiki/x/C4A2Og">here</a></strong> for details.
